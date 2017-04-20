@@ -92,7 +92,7 @@ public class Select extends AppCompatActivity implements View.OnClickListener{
 
                     builder = new Uri.Builder();
                     builder.scheme("https")
-                            .authority("faissal-simple-server.herokuapp.com")
+                            .authority("linguist-backend.herokuapp.com")
                             .appendPath("call")
                             .appendQueryParameter("token",LoginActivity.Token)
                             .appendQueryParameter("translator_id",sId);

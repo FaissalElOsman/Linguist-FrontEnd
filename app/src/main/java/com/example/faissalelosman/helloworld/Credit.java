@@ -51,7 +51,7 @@ public class Credit extends AppCompatActivity implements View.OnClickListener{
 
         Uri.Builder builder = new Uri.Builder();
         builder.scheme("https")
-                .authority("faissal-simple-server.herokuapp.com")
+                .authority("linguist-backend.herokuapp.com")
                 .appendPath("getCredit")
                 .appendQueryParameter("token", LoginActivity.Token.toString());
         URL url = null;
@@ -69,7 +69,7 @@ public class Credit extends AppCompatActivity implements View.OnClickListener{
             case R.id.bCharge:
                 Uri.Builder builder = new Uri.Builder();
                 builder.scheme("https")
-                        .authority("faissal-simple-server.herokuapp.com")
+                        .authority("linguist-backend.herokuapp.com")
                         .appendPath("updateCredit")
                         .appendQueryParameter("token", LoginActivity.Token.toString())
                         .appendQueryParameter("credit", etAmount.getText().toString());

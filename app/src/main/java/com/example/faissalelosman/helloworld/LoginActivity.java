@@ -67,7 +67,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             case R.id.bLogin:
                 builder=new Uri.Builder();
                 builder.scheme("https")
-                        .authority(String.valueOf(R.string.server_address))
+                        .authority("linguist-backend.herokuapp.com")
                         .appendPath("login")
                         .appendQueryParameter("email",      etUsername.getText().toString())
                         .appendQueryParameter("password",   etPassword.getText().toString());
@@ -81,7 +81,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             case R.id.bRegister:
                 builder=new Uri.Builder();
                 builder.scheme("https")
-                        .authority("faissal-simple-server.herokuapp.com")
+                        .authority("linguist-backend.herokuapp.com")
                         .appendPath("registerapp");
                 try {
                     url         = new URL(builder.build().toString());

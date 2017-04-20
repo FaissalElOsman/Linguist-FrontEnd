@@ -90,7 +90,7 @@ public class Language extends AppCompatActivity implements View.OnClickListener{
             case R.id.bAdd:
                 builder=new Uri.Builder();
                 builder.scheme("https")
-                        .authority("faissal-simple-server.herokuapp.com")
+                        .authority("linguist-backend.herokuapp.com")
                         .appendPath("addLanguage");
                 try {
                     url = new URL(builder.build().toString());
@@ -110,7 +110,7 @@ public class Language extends AppCompatActivity implements View.OnClickListener{
                 JSONArray array=new JSONArray();
                 builder=new Uri.Builder();
                 builder.scheme("https")
-                        .authority("faissal-simple-server.herokuapp.com")
+                        .authority("linguist-backend.herokuapp.com")
                         .appendPath("removeLanguage");
                 try {
                     url = new URL(builder.build().toString());

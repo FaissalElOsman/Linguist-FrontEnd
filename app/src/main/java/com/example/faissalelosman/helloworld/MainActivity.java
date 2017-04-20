@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.bGo:
                 builder=new Uri.Builder();
                 builder.scheme("https")
-                        .authority("faissal-simple-server.herokuapp.com")
+                        .authority("linguist-backend.herokuapp.com")
                         .appendPath("getTranslator")
                         .appendQueryParameter("token",LoginActivity.Token.toString())
                         .appendQueryParameter("language",etLanguage.getText().toString());
@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 sLanguages.clear();
                 builder=new Uri.Builder();
                 builder.scheme("https")
-                        .authority("faissal-simple-server.herokuapp.com")
+                        .authority("linguist-backend.herokuapp.com")
                         .appendPath("logout")
                         .appendQueryParameter("token",LoginActivity.Token.toString());
                 try {
@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if(bFirstTime) {
             Uri.Builder builder = new Uri.Builder();
             builder.scheme("https")
-                    .authority("faissal-simple-server.herokuapp.com")
+                    .authority("linguist-backend.herokuapp.com")
                     .appendPath("getProfile")
                     .appendQueryParameter("token", LoginActivity.Token.toString());
             URL url = null;
