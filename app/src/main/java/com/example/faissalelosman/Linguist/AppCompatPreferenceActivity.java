@@ -1,4 +1,4 @@
-package com.example.faissalelosman.helloworld;
+package com.example.faissalelosman.Linguist;
 
 import android.content.res.Configuration;
 import android.os.Bundle;

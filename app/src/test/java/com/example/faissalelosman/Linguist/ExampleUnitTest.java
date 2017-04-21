@@ -1,4 +1,4 @@
-package com.example.faissalelosman.helloworld;
+package com.example.faissalelosman.Linguist;
 
 import org.junit.Test;
 

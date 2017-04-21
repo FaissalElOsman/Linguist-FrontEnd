@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.faissalelosman.helloworld">
+    package="com.example.faissalelosman.Linguist">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -13,18 +13,18 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LoginActivity">
+        <activity android:name="com.example.faissalelosman.Linguist.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
-        <activity android:name=".Update" />
-        <activity android:name=".Language" />
-        <activity android:name=".Select" />
-        <activity android:name=".Credit"></activity>
+        <activity android:name="com.example.faissalelosman.Linguist.MainActivity" />
+        <activity android:name="com.example.faissalelosman.Linguist.Update" />
+        <activity android:name="com.example.faissalelosman.Linguist.Language" />
+        <activity android:name="com.example.faissalelosman.Linguist.Select" />
+        <activity android:name="com.example.faissalelosman.Linguist.Credit"></activity>
     </application>
 
 </manifest>

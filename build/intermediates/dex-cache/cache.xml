@@ -3,174 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_562a54211c4462bcb2a1d8021937253cf2d99208.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f5b43dbfcef1db7c28d0f7b2481ca1b54e664a41.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_dfe2a8e1f119755216d6a86f35022755459f9560.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_328f0a58b7297437ecf9386d06e291fbf56d3068.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_99f707f424431f1ea399fc7c07fc861336798815.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_5a12fbf5273b1359b34bf57748435cda6c4f8672.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8000e72729b5626fbaa2a6158f50010ea375813d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_8c40b0305b688fede34110500dc7b8ca7d1ce2d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bb8a55044b09e19f0c94644dc1517aaf5bb50133.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2c825d50f4c1090ebabb07bdc00edd599e02066f">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/instant-run_8a2509b24deb741a95cd5ca472a0a481e9ba932e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_91f1a072244238b082b13555d6e242cd80d55c4a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bf827b05308e63fb97980817cbfffa737e975521.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0e0f6c72f607b0bc428acdcac039f4090931def7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bf827b05308e63fb97980817cbfffa737e975521.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_2d0d13338ea0aecb84343c65aa8460a84f10ad7a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e6d1ae5044cf54e15e65ee60fccb06d484fc2201.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_37b3008cb4502d71b84aa2c8865c904e151ba652.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_c0cfd88e539ed2aedba3efce30e549a2166961dc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_e4420efe5a0322b6ce7220a239208adfc2fe9c47.jar" />
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_c0cfd88e539ed2aedba3efce30e549a2166961dc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,7 +17,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_3840fc72104ddec570185180d6b584d6e0a0da09.jar" />
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_3840fc72104ddec570185180d6b584d6e0a0da09.jar" />
     </item>
     <item
         is-multidex="false"
@@ -188,61 +26,43 @@
         optimize="true"
         revision="25.0.0"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_0ee072987f26f8d223474c794b1b838283f7a4d5.jar" />
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_0ee072987f26f8d223474c794b1b838283f7a4d5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_fbe70541f3d48e9eb9e3e802c8641318edb95bbf.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_562a54211c4462bcb2a1d8021937253cf2d99208.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="6f7f4895f64dd7c710b179d098b24c439f72e978">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_46100e1fdc0bbe7a1874237da306513f8f7c77b0.jar" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_f5b43dbfcef1db7c28d0f7b2481ca1b54e664a41.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_7930ba2c99b6da5a037cef2045eab6dabc0eb8b1.jar" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_dfe2a8e1f119755216d6a86f35022755459f9560.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_aa8a047e19878b8f1e0c6fb4ab7bbd47555900a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_b4101b8e7896bf467d7f00fc517ab01399cf7d60.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_556db3196fad8e80642ea8cf40236abf10db7990.jar" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_8000e72729b5626fbaa2a6158f50010ea375813d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -251,7 +71,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_ff66c7393de2d88d240a4bec159c0edd8d3903c2.jar" />
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_ff66c7393de2d88d240a4bec159c0edd8d3903c2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -260,16 +80,25 @@
         optimize="true"
         revision="25.0.0"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f1d9682541b48dfd83a1ae27ca565dd96575cdcd.jar" />
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_f1d9682541b48dfd83a1ae27ca565dd96575cdcd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_8c40b0305b688fede34110500dc7b8ca7d1ce2d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_97ccf777c2e14e0fd6357853e3511e0ed609bf9d.jar" />
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_bb8a55044b09e19f0c94644dc1517aaf5bb50133.jar" />
     </item>
     <item
         is-multidex="false"
@@ -278,16 +107,16 @@
         optimize="true"
         revision="25.0.0"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_277cb04502703987923af4dfff67fd053f9b5b57.jar" />
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-design-24.2.1_277cb04502703987923af4dfff67fd053f9b5b57.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_6ac982034cc1d159f76cbe26ae7b55efe56df3d8.jar" />
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_91f1a072244238b082b13555d6e242cd80d55c4a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -296,34 +125,34 @@
         optimize="true"
         revision="25.0.0"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_647661f9ada879bae778f2c803daffc33cf16f41.jar" />
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_647661f9ada879bae778f2c803daffc33cf16f41.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jar="/Users/faissalelosman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_e16eabc2f204557ff6eef70a7ad699e74b69e623.jar" />
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/support-annotations-24.2.1_bf827b05308e63fb97980817cbfffa737e975521.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_54f89c746c6ae0d7c394a75084bbc416b75da43d.jar" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_0e0f6c72f607b0bc428acdcac039f4090931def7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
+        jar="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/faissalelosman/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_bb1c63b0682b781411a08c4b133e0f9730638376.jar" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/faissalelosman/Code/Linguist/Linguist-FrontEnd/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_e6d1ae5044cf54e15e65ee60fccb06d484fc2201.jar" />
     </item>
 
 </items>
